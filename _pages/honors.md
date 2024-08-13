@@ -3,8 +3,9 @@ permalink: /honors/
 title: "Honors & Awards"
 author_profile: true
 redirect_from: 
-  - /honors/
+  - /awards/
   - /honors.html
+  - /awards.html
 ---
 
 ## Honors & Awards

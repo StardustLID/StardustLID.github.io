@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, University of Toronto, 2029 (expected)
-* BEng in Computer Science and in Electronic Engineering, and BBA in General Business Management, The Hong Kong University of Science and Technology, 2024
+* Ph.D. in Electrical Engineering, University of Toronto, 2024-present
+* BEng in Computer Science and in Electronic Engineering, and BBA in General Business Management, with minors in Mathematics and in Robotics, The Hong Kong University of Science and Technology, 2019-2024
 * Semester Exchange (Computer Science), Eidgenössische Technische Hochschule (ETH) Zürich, 2022
 
 Work Experience
